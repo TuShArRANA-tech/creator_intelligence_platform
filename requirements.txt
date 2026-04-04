@@ -1,0 +1,13 @@
+google-api-python-client
+python-dotenv
+mysql-connector-python
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+jupyter
+notebook
+ipykernel
+requests
